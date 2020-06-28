@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+# AXIT LANDING
+- project: AXIT landing
+  role: Frontend Web Developer
+  duration: January 2020
+  url: "https://ephadeev.github.io/axit-landing"
+  description: PSD to HTML, CSS, JS. Responsive Web Design
 
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+# CURRENCY CONVERTER
+- project: currency-converter
+  role: Frontend Web Developer
+  duration: Mar 2020 &mdash; Mar 2020
+  url: "https://ephadeev.github.io/currency-converter/"
+  description: HTML, CSS, JS, NBRB API.
+
+  # EMPLOYERS APP
+- project: employers app
+  role: Frontend Web Developer
+  duration: April 2020
+  url: "https://ephadeev.github.io/employers-app/"
+  description: HTML, CSS, JS, NBRB API, tree data structure
