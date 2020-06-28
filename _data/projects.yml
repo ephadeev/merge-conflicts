@@ -21,3 +21,10 @@
   duration: April 2020
   url: "https://ephadeev.github.io/employers-app/"
   description: HTML, CSS, JS, NBRB API, tree data structure
+  
+  # iread
+- project: iread
+  role: Frontend Web Developer
+  duration: February 2020 &mdash; Present
+  url: "https://iread-529b4.web.app/"
+  description: social network. Technologies used - react, redux, react-redux, react-routed-dom, redux-thunk, prop-types, firebase, eslint
